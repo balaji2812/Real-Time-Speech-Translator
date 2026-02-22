@@ -32,6 +32,7 @@ This project demonstrates integration of AI APIs, real-time audio processing, an
 
 ## 📂 Project Structure
 
+```text
 Tamil-English-Voice-Translator/
 │
 ├── ts.py
